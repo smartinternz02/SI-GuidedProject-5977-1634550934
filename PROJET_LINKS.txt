@@ -1,0 +1,21 @@
+DATASET
+
+FRUIT DATASET: https://drive.google.com/file/d/1DfnwKfezKp6Qsj4LM0g2vZrm2PuMlnri/view?usp=sharing
+
+VEG DATASET: https://drive.google.com/file/d/1MeSjA4oLKu3ZhJrQPAU-nHNv-Wx0oQIA/view?usp=sharing
+
+H5 FILES
+
+FRUIT: https://drive.google.com/file/d/14PRXI0yJATQwqYUxrhbjG3CdrvH44E7j/view?usp=sharing
+
+IBMFRUIT: https://drive.google.com/file/d/1dD-iBfUaGEYYAmiiWmAuZsNaUv8o15Jo/view?usp=sharing
+
+VEGETABLE: https://drive.google.com/file/d/15mv8JW6X9zf7Ycxs1dwtpvUXg0Dx6fCq/view?usp=sharing
+
+IBMVEGETABLE: https://drive.google.com/file/d/1UgIVvUmEmSmdXuC5MECWI-worQJWdYSu/view?usp=sharing
+
+IBM MODELS
+
+FRUIT: https://drive.google.com/file/d/1Fvh3KjaEOfg3l4n0wx7NYXIRSkZMIt0n/view?usp=sharing
+
+VEGETABLE:  https://drive.google.com/file/d/1KZeSrbXjd3lg0Cdr_jWw2evy8JZol5ng/view?usp=sharing
